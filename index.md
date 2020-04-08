@@ -2,10 +2,6 @@
 Answerbot Setup
 ---
 
-**Contents**
-*TOC
-{:toc}
-
 ## Create Account
 
 1. Head over to the [dashboard](https://dashboard.answerbot.app) when you're ready to get started, and follow instructions to log in. 
@@ -15,7 +11,7 @@ Answerbot Setup
 
 ## Slack Integration 
 
-
+1. 
 
 ## Add to Website
 
