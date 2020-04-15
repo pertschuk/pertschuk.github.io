@@ -19,3 +19,20 @@
 ## Add to Website
 
 Copy and paste the code snippet at the bottom of the [websites](https://dashboard.answerbot.app/websites) page, into the header section of your website's code. 
+
+## Customize the position of the widget on your site 
+
+Simply add the following *before* the Answerbot code snippet (mentioned above):
+
+```html
+<script>
+    window.answerbotSettings = {
+        paddingHorizontal: 24,  # distance from the side of the page
+        paddingVertical: 24,  # distance from the bottom of the page
+        buttonHeight: 56,
+        popupWidth: 448,
+        alignment:  'left'  # align the widget 'left' or 'right'
+    }
+</script>
+
+```
