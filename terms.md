@@ -44,7 +44,7 @@ _Website Log Data_
 
 We collect information that your browser sends whenever you visit our website or use our Services (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Services’ functionality. These third-party service providers have their own privacy policies addressing how they use such information. When you access the Services by or through a mobile device, we collect certain information automatically, including the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, and your general location information as described further below.
 
-Widget log data
+_Widget log data_
 
 Our Services collect data such as questions being asked, IP address, browser type and version, time, general location and pages browsed (only those pages where the Widget is installed on) . This data is used to enhance and provide Services to you. 
 
