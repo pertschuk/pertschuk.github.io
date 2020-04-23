@@ -1,4 +1,11 @@
-# Privacy Policy
+---
+title: "Privacy Policy"
+permalink: /privacy-policy/
+redirect_from:
+  - /privacy/
+toc: true
+layout: single
+---
 
 Effective Date: April 16, 2020
 

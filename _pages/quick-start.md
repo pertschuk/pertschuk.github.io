@@ -1,4 +1,11 @@
-# Answerbot Setup
+---
+title: "Quick Start Guide"
+permalink: /quick-start-guide/
+redirect_from:
+  - /
+toc: true
+layout: single
+---
 
 ## Create Account
 
