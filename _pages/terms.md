@@ -127,7 +127,7 @@ This Agreement shall be governed and construed in accordance with the laws of Ca
 
 ### **18. Policies**
 
-You agree that your use of the Services is subject to our Acceptable Use Policy and Privacy Policy, each of which is incorporated into this Agreement.
+You agree that your use of the Services is subject to our Privacy Policy (https://docs.answerbot.app/privacy-policy/).
 
 
 ### **19. Changes**
